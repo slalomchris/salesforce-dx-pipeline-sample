@@ -8,7 +8,7 @@
     },
     "packageDirectories": [
         {
-            "path": "force-",
+            "path": "force-app",
             "package": "SamplePkg",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
